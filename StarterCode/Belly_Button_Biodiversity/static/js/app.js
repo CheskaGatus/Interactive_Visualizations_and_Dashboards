@@ -44,7 +44,7 @@ function buildMetadata(sample) {
         name: 'speed',
         text: level,
         hoverinfo: 'text+name'},
-      { values: [45/8, 45/8, 45/8, 45/8, 45/8, 45/8, 45/8, 45/8, 45/8, 50],
+      { values: [50/9, 50/9, 50/9, 50/9, 50/9, 50/9, 50/9, 50/9, 50/9, 50],
       rotation: 90,
       text: ['8-9','7-8','6-7', '5-6', '4-5', '3-4', '2-3', '1-2', '0-1', ''],
       textinfo: 'text',
