@@ -21,4 +21,4 @@ All charts are automatically updated whenever a new sample is selected.
 
 ## Heroku
 
-Deployed this Flask app to Heroku.
+Deployed this Flask app to Heroku.Please check it out at https://belly-button-diversity-cheska.herokuapp.com/
